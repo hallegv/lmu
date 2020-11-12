@@ -1,5 +1,5 @@
 # LMU
-A list of courses I've taken at Loyola Marymount University and the projects I completed for them.
+All directory of all relevant computer science courses and projects completed at Loyola Marymount University.
 
 ## Courses
 
