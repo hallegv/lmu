@@ -7,4 +7,6 @@ A directory of computer science courses and projects I've completed at Loyola Ma
 
 ### **[CMSI 281: Data Structures](https://github.com/hallegv/cmsi281)**
 
+<!--- ### **[CMSI 282: Algorithms](https://github.com/hallegv/cmsi282)** --->
+
 ### **[CMSI 386: Programming Languages](https://github.com/hallegv/cmsi386)**
